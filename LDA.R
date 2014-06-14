@@ -1,5 +1,5 @@
 # Copyright (C) 2014 John Smith
-#     http://あとで   
+#     https://github.com/john-smith/ml_hackathon
 #
 # Apache License
 # Version 2.0, January 2004
